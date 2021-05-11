@@ -37,15 +37,15 @@ _Veja abaixo uma lista de screenshots._
 
 ## Meta
 
-Joa Roque – [@joaroquedev](https://facebook.com/100025057463273) – haguacomh@gmail.com
+Joa Roque – [@joaroque](https://facebook.com/100025057463273) – haguacomh@gmail.com
 
-[Joa Roque](https://github.com/joaroquedev)
+[Joa Roque](https://github.com/joaroque)
 
-[Programadore Angolano](https://www.programadorangolano.com)
+[Programadore Angolano](https://pangolano.github.io)
 
 ## Contributing
 
-1. Faça o _fork_ do projeto (<https://github.com/joaroquedev/sidown/fork>)
+1. Faça o _fork_ do projeto (<https://github.com/joaroque/sidown/fork>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b feature/fooBar`)
 3. Faça o _commit_ (`git commit -am 'Add some fooBar'`)
 4. _Push_ (`git push origin feature/fooBar`)
